@@ -1,6 +1,25 @@
 # LoginPageResponsive
 React based Responsive Login Page
 
+File Structure:
+
+
+  src
+        File:
+          -index.js
+          -App.js
+          -App.css
+          -ProjectOne.js
+   Folder: common
+        File:
+          -StyleComponent.js
+   Folder: component
+        File:
+          -Login.js
+          -NavigationBar.js
+          
+          
+
 Desktop View of Login Page
 
 ![image](https://user-images.githubusercontent.com/107262867/173095362-de3e590b-eb3a-4a70-8fbf-ca9b525645ae.png)
