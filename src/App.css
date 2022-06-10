@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Joan&display=swap');
+
+* {
+  font-family: 'Joan', serif;
+}
+
+@media only screen and (max-width: 700px) {
+  #Image {
+    display: none;
+  }
+
+  #navButton {
+    display: none;
+  }
+
+  #LoginPage {
+    margin-top: 50px;
+    left: 25%;
+    top: 25%;
+    position: absolute;
+    width: 50%;
+    text-align: center;
+  }
+
+  #LoginTop {
+    white-space: nowrap;
+  }
+}
+
+@media only screen and (max-width: 400px) {
+  #LoginPage {
+    display: none;
+  }
+
+  #Header {
+    display: none;
+  }
+}
